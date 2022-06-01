@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-ml-diamond-converter/static/css/main.68ce030e.css",
+    "main.js": "/reactjs-ml-diamond-converter/static/js/main.f40217bb.js",
+    "static/js/787.a384cdaa.chunk.js": "/reactjs-ml-diamond-converter/static/js/787.a384cdaa.chunk.js",
+    "index.html": "/reactjs-ml-diamond-converter/index.html",
+    "main.68ce030e.css.map": "/reactjs-ml-diamond-converter/static/css/main.68ce030e.css.map",
+    "main.f40217bb.js.map": "/reactjs-ml-diamond-converter/static/js/main.f40217bb.js.map",
+    "787.a384cdaa.chunk.js.map": "/reactjs-ml-diamond-converter/static/js/787.a384cdaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ce030e.css",
+    "static/js/main.f40217bb.js"
+  ]
+}
