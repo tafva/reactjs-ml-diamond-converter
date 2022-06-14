@@ -1,7 +1,5 @@
 # Diamond Converter (Mobile Legend) with React App
 
-Homepage: http://tafva.github.io/reactjs-ml-diamond-converter
-
 ## Installation
 
 Clone repository
