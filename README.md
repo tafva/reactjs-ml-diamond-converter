@@ -52,7 +52,7 @@ To deploy this project run
  - [gh-pages](https://www.npmjs.com/package/gh-pages)
  - [Boostrap v5](https://getbootstrap.com/)
 
-## Referensi
+## References
 
 - https://www.youtube.com/c/DeaAfrizal
 - https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
